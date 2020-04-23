@@ -38,16 +38,17 @@
             max-width: 60px;
         }
         
-        #jogadorEscolha li,
-        #computadorEscolha li {
+        #jogadorEscolha li
+         {
             text-align: center;
             padding: 15px;
             opacity: 30%;
         }
         
-        #jogadorEscolha li:hover,
-        #computadorEscolha li:hover {
+        #jogadorEscolha li:hover, #computadorEscolha li{
             opacity: 100%;
+            text-align: center;
+            padding: 15px;
         }
         
         #pontosJogador {
